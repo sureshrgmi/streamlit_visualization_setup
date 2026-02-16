@@ -6,12 +6,12 @@ A simple Streamlit application for testing and learning.
 
 1. Create a virtual environment:
    ```bash
-   py -3.11 -m venv venv
+   python3 -m venv venv
    ```
 
 2. Activate the virtual environment:
    ```bash
-   .\venv\Scripts\Activate.ps1
+   source venv/bin/activate
    ```
 
 3. Install dependencies:
